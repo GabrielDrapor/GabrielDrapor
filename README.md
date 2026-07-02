@@ -2,7 +2,7 @@
 
 I'm **Jelly / Drapor / Jared**.
 
-I like coffee, football, and [designing crossword puzzles](https://triviadrome.substack.com/). Coding for a living.
+I like coffee, football, and [designing crossword puzzles](https://triviadrome.substack.com/).
 
 ## 🔨 Building Now
 
