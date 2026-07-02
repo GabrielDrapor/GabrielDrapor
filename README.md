@@ -1,16 +1,16 @@
 # Hi, I'm Jared 👋
 
-I'm **Jared Su**, a.k.a. **GabrielDrapor**.
+I'm **Jelly / Drapor / Jared**.
 
-**Witness me.**
+I like coffee, football, and [designing crossword puzzles](https://triviadrome.substack.com/). Coding for a living.
 
 ## 🔨 Building Now
 
-- ⚙️ [something](https://github.com/isoform/something) - Do something right. — at [Isoform](https://isoform.ai)
+- ⚙️ [Yansu](https://yansu.app/) - Proactive AI that turns how you work into knowledge, handoffs, and automations — at [Isoform](https://isoform.ai)
 - 📖 [ovid](https://github.com/GabrielDrapor/ovid) - A bilingual reader. Two languages, one tap.
-- 🎙️ [jcores](https://github.com/GabrielDrapor/jcores) - Easily discover and enjoy classic podcast episodes on Gcores
-- 🍜 [Savoria](https://github.com/GabrielDrapor/Savoria) - All I savored.
+- 📻 [jcores](https://github.com/GabrielDrapor/jcores) - Easily discover and enjoy classic podcast episodes on Gcores
+- 👀 [Savoria](https://github.com/GabrielDrapor/Savoria) - All I savored.
 
 ## Find Me
 
-[Blog](https://jrd.pub) · [GitHub](https://github.com/GabrielDrapor)
+[X](https://x.com/GabrielDrapor) · [Blog](https://jrd.pub) · [GitHub](https://github.com/GabrielDrapor)
